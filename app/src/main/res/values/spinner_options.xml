@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rock_paper_options">
+        <item>ROCK</item>
+        <item>PAPER</item>
+        <item>SCISSORS</item>
+        <item>LIZARD</item>
+        <item>SPOCK</item>
+    </string-array>
+</resources>
